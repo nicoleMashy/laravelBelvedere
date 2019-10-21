@@ -41,14 +41,14 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="#about">About Us</a></li>
-                            <li><a href="#our_service">Service</a></li>
-                            <li><a href="#team">Resident</a></li>
-                            <li><a href="#portfolio">Portfolio</a></li>
-                            <li><a href="#price_table">Price Table</a></li>
-                            <li><a href="#blog">Blog</a></li>
-                            <li><a href="#testimonial">Testimonials</a></li>
-                            <li><a href="#contact">Contact us</a></li>
+                            <li><a href="#about">ABOUT US</a></li>
+                            <li><a href="#our_service">SERVICES</a></li>
+                            <li><a href="#team">RESIDENTS</a></li>
+                            <li><a href="#portfolio">CENTENARY ITEMS</a></li>
+                            <li><a href="#price_table">CENTENARY ITEMS PRICES</a></li>
+                            <li><a href="#blog">OTHER WELLNESS CENTRES</a></li>
+                            <li><a href="#testimonial">TESTIMONIES</a></li>
+                            <li><a href="#contact">CONTACT US</a></li>
                         </ul>
                     </div>	<!-- collapse navbar-collapse -->
                 </div>	<!-- container-fluid -->
@@ -85,44 +85,26 @@
         <div class="row main_content">
             <div class="col-md-4 wow animated zoomIn" data-wow-delay="0.1s">
                 <figure>
-                    <img class="pro img-responsive center-block" src="/app-assets/img/3-col-icons-web.png">
+                    <img class="pro img-responsive center-block" src="/img/healing.png">
                 </figure>
-                <h5 class="text-center">Web Development</h5>
-                <div class="row">
-                    <div class="col-xs-12 text-center" style="border-right: 1px solid #f4f4f4">
-                        <div style="display: inline; width: 60px; height: 60px;">
-                            <input type="text" class="knob" data-readonly="true" value="90" data-width="60" data-height="60" data-fgcolor="#39CCCC" readonly="readonly" style="width: 34px; height: 20px; position: absolute; vertical-align: middle; margin-top: 20px; margin-left: -47px; border: 0px; font-weight: bold; font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; /* color: rgb(57, 204, 204); */ padding: 0px; -webkit-appearance: none; background: none;">
-                        </div>
-                    </div>	<!-- col-xs-12 -->
-                </div>	<!-- row -->
+                <h5 class="text-center">healing and deliverence</h5>
+
             </div>	<!-- col-md-4 -->
 
             <div class="col-md-4 wow animated zoomIn" data-wow-delay="0.1s">
                 <figure>
-                    <img class="pro img-responsive center-block" src="/app-assets/img/3-col-icons-android.png">
+                    <img class="pro img-responsive center-block" src="/img/jd.png">
                 </figure>
-                <h5 class="text-center">Android Development</h5>
-                <div class="row">
-                    <div class="col-xs-12 text-center" style="border-right: 1px solid #f4f4f4">
-                        <div style="display: inline; width: 60px; height: 60px;">
-                            <input type="text" class="knob" data-readonly="true" value="80" data-width="60" data-height="60" data-fgcolor="#39CCCC" readonly="readonly" style="width: 34px; height: 20px; position: absolute; vertical-align: middle; margin-top: 20px; margin-left: -47px; border: 0px; font-weight: bold; font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; /* color: rgb(57, 204, 204); */ padding: 0px; -webkit-appearance: none; background: none;">
-                        </div>
-                    </div>	<!-- col-xs-12 -->
-                </div>	<!-- row -->
+                <h5 class="text-center">jorodhani drive</h5>
+
             </div>	<!-- col-md-4 -->
 
             <div class="col-md-4 wow animated zoomIn" data-wow-delay="0.1s">
                 <figure>
-                    <img class="pro img-responsive center-block" src="/app-assets/img/3-col-icons-iphone.png">
+                    <img class="pro img-responsive center-block" src="/img/jorodhani.png">
                 </figure>
-                <h5 class="text-center">iOS Development</h5>
-                <div class="row">
-                    <div class="col-xs-12 text-center" style="border-right: 1px solid #f4f4f4">
-                        <div style="display: inline; width: 60px; height: 60px;">
-                            <input type="text" class="knob" data-readonly="true" value="75" data-width="60" data-height="60" data-fgcolor="#39CCCC" readonly="readonly" style="width: 34px; height: 20px; position: absolute; vertical-align: middle; margin-top: 20px; margin-left: -47px; border: 0px; font-weight: bold; font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; text-align: center; /* color: rgb(57, 204, 204); */ padding: 0px; -webkit-appearance: none; background: none;">
-                        </div>
-                    </div>	<!-- col-xs-12 -->
-                </div>	<!-- row -->
+                <h5 class="text-center">Psalms 102 vs 16</h5>
+
             </div>	<!-- col-md-4 -->
         </div><!-- row main_content -->
     </div>	<!-- container -->
@@ -134,7 +116,7 @@
         <div class="row text-center" id= "heading">
             <div class="col-md-6 col-md-offset-3 wow animated zoomInDown" id= "heading-text">
                 <h3>Our Services</h3>
-                <p>We are lucky to service people like you</p>
+                <p>And so all israel shall be saved: as it is written, there shall come out of Zion the deliverer, and shall turn away unGodliness from jacob (Romans 11 vs 26)</p>
                 <hr class= "full">
                 <br/>
             </div>
@@ -144,10 +126,12 @@
                 <div class="row">
                     <div class="col-sm-4 service">
                         <div class="service-icon text-center">
-                            <i class="fa fa-code fa-5x"></i>
+                            <figure>
+                                <img class="pro img-responsive center-block" src="/img/healing.png">
+                            </figure>
                         </div>
                         <div class="about-service">
-                            <h3 class="text-center">Web Application</h3>
+                            <h3 class="text-center">healing and deliverence</h3>
                             <p class="text-center">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -157,10 +141,12 @@
                     </div>	<!-- col-sm-4 -->
                     <div class="col-sm-4 service">
                         <div class="service-icon text-center">
-                            <i class="fa fa-desktop fa-5x"></i>
+                            <figure>
+                                <img class="pro img-responsive center-block" src="/img/healing.png">
+                            </figure>
                         </div>
                         <div class="about-service">
-                            <h3 class="text-center">Web designing</h3>
+                            <h3 class="text-center">centenary items</h3>
                             <p class="text-center">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -170,10 +156,12 @@
                     </div>	<!-- col-sm-4 -->
                     <div class="col-sm-4 service">
                         <div class="service-icon text-center">
-                            <i class="fa fa-th fa-5x"></i>
+                            <figure>
+                                <img class="pro img-responsive center-block" src="/img/healing.png">
+                            </figure>
                         </div>
                         <div class="about-service">
-                            <h3 class="text-center">Graphics Designing</h3>
+                            <h3 class="text-center">jorodhani drive</h3>
                             <p class="text-center">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -182,47 +170,8 @@
                         </div>
                     </div>	<!-- col-sm-4 -->
                 </div>	<!-- row -->
-                <div class="row">
-                    <div class="col-sm-4 service">
-                        <div class="service-icon text-center">
-                            <i class="fa fa-gamepad fa-5x"></i>
-                        </div>
-                        <div class="about-service">
-                            <h3 class="text-center">Game Development</h3>
-                            <p class="text-center">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud
-                            </p>
-                        </div>
-                    </div>	<!-- col-sm-4 -->
-                    <div class="col-sm-4 service">
-                        <div class="service-icon text-center">
-                            <i class="fa fa-lightbulb-o fa-5x"></i>
-                        </div>
-                        <div class="about-service">
-                            <h3 class="text-center">Creative Ideas</h3>
-                            <p class="text-center">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud
-                            </p>
-                        </div>
-                    </div>	<!-- col-sm-4 -->
-                    <div class="col-sm-4 service">
-                        <div class="service-icon text-center">
-                            <i class="fa fa-stack-overflow fa-5x"></i>
-                        </div>
-                        <div class="about-service">
-                            <h3 class="text-center">Support</h3>
-                            <p class="text-center">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud
-                            </p>
-                        </div>
-                    </div>	<!-- col-sm-4 -->
-                </div>	<!-- row -->
+
+
             </div>	<!-- services -->
         </div>	<!-- main_content -->
     </div>	<!-- container -->
@@ -235,7 +184,7 @@
             <div class="row text-center" id="heading">
                 <div class="col-md-6 col-md-offset-3 wow animated zoomInDown" id="heading-text">
                     <h3>Our leaders</h3>
-                    <p>We can satisfy your demand</p>
+                    <p>I will raise them up a prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that i shall command him(DEUT 18 VS 18)</p>
                     <hr class="full">
                     <br/>
                 </div>
@@ -244,11 +193,11 @@
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class="row wow animated zoomIn" data-wow-delay="0.1s">
                         <div class="col-md-8 col-md-offset-2">
-                            <img class="img-circle img-responsive center-block" src="img/Syed-Rezwanul-Haque.jpg" alt="Syed Rezwanul Haque Rubel">
+                            <img class="img-circle img-responsive center-block" src="/img/bambo.png" alt="Syed Rezwanul Haque Rubel">
                         </div>
                     </div>
-                    <h4 class="wow animated fadeInUp" data-wow-delay= "0.2s">Syed Rezwanul Haque Rubel</h4>
-                    <p class= "member-title wow animated fadeIn" data-wow-delay= "0.3s">Project Manager</p>
+                    <h4 class="wow animated fadeInUp" data-wow-delay= "0.2s">RESIDENT ELDER</h4>
+                    <p class= "member-title wow animated fadeIn" data-wow-delay= "0.3s">ELDER MUTUKIRWI</p>
                     <p class= "team-member-description wow animated fadeIn" data-wow-delay= "0.4s">Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna hifd.</p>
                     <div class= "row text-center wow animated fadeInDown" data-wow-delay= "0.5s">
                         <div class= "team-member-contact">
@@ -269,11 +218,11 @@
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class= "row wow animated zoomIn" data-wow-delay="0.6s">
                         <div class= "col-md-8 col-md-offset-2">
-                            <img class="img-circle img-responsive center-block" src="img/Shahjahan-Jewel.jpg" alt= "Shahjahan Jewel" >
+                            <img class="img-circle img-responsive center-block" src="/img/samere.png" alt= "Shahjahan Jewel" >
                         </div>
                     </div>
-                    <h4 class= "wow animated fadeInUp" data-wow-delay= "0.7s">Shahjahan Jewel</h4>
-                    <p class= "member-title wow animated fadeIn" data-wow-delay= "0.8s">Head Of Ideas</p>
+                    <h4 class= "wow animated fadeInUp" data-wow-delay= "0.7s">OUR FOUNDER</h4>
+                    <p class= "member-title wow animated fadeIn" data-wow-delay= "0.8s">REVEREND SAMUEL MUTENDI</p>
                     <p class= "team-member-description wow animated fadeIn" data-wow-delay= "0.9s">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
                     <div class= "row text-center wow animated fadeInDown" data-wow-delay= "0.5s">
                         <div class= "team-member-contact">
@@ -292,11 +241,11 @@
                 <div class="col-md-4 col-sm-6 text-center">
                     <div class= "row wow animated zoomIn" data-wow-delay="1.1s">
                         <div class="col-md-8 col-md-offset-2">
-                            <img class="img-circle img-responsive center-block" src="/app-assets/img/nathan.jpg" alt= "Nathan Thomas Paul" >
+                            <img class="img-circle img-responsive center-block" src="/img/muranda.png" alt= "Nathan Thomas Paul" >
                         </div>
                     </div>
-                    <h4 class="wow animated fadeInUp" data-wow-delay= "1.2s">Nathan Thomas Paul</h4>
-                    <p class= "member-title wow animated fadeIn" data-wow-delay= "1.3s">Client Relations Manager</p>
+                    <h4 class="wow animated fadeInUp" data-wow-delay= "1.2s">OUR CURRENT BISHOP</h4>
+                    <p class= "member-title wow animated fadeIn" data-wow-delay= "1.3s">DR BISHOP NEHEMIAH MUTENDI</p>
                     <p class= "team-member-description wow animated fadeIn" data-wow-delay= "1.4s">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum.</p>
                     <div class= "row text-center wow animated fadeInDown" data-wow-delay= "0.5s">
                         <div class= "team-member-contact">
@@ -324,8 +273,8 @@
     <div class="container">
         <div class="row text-center" id="heading">
             <div class="col-md-6 col-md-offset-3 wow animated zoomInDown" id="heading-text">
-                <h3>Our Works</h3>
-                <p>Take a look, Taste our cook</p>
+                <h3>Our HOLY ITEMS</h3>
+                <p>Take a look,</p>
                 <hr class= "full">
                 <br/>
             </div>
@@ -334,39 +283,39 @@
             <div class="row port">
                 <div class="col-md-8 col-md-offset-2 text-center button-group" id="filters">
                     <button type="button" class="btn btn-default is-checked" data-filter="*">All</button>
-                    <button type="button" class="btn btn-default" data-filter=".web">Web Design</button>
-                    <button type="button" class="btn btn-default" data-filter=".game">Game</button>
-                    <button type="button" class="btn btn-default" data-filter=".app">App</button>
+                    <button type="button" class="btn btn-default" data-filter=".web">HOLY LIQUIDS</button>
+                    <button type="button" class="btn btn-default" data-filter=".game">HOLY CLOTHING</button>
+                    <button type="button" class="btn btn-default" data-filter=".app">BOOKS AND POSTERS</button>
                 </div>
             </div>	<!-- row -->
             <div class="row">
                 <div class="isotope" id="port-items">
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item web" data-category="web">
-                        <img class="img-responsive" src="/app-assets/img/web-design-1.jpg" >
+                        <img class="img-responsive" src="/img/web-design-1.jpg" >
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item game" data-category="game">
-                        <img class="img-responsive" src="/app-assets/img/game-2.jpg">
+                        <img class="img-responsive" src="/img/game-2.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item app" data-category="app">
-                        <img class="img-responsive" src="/app-assets/img/app-1.jpg">
+                        <img class="img-responsive" src="/img/app-1.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item web" data-category="web">
-                        <img class="img-responsive" src="/app-assets/img/web-design-2.jpg">
+                        <img class="img-responsive" src="/img/web-design-2.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item game" data-category="game">
-                        <img class="img-responsive" src="/app-assets/img/game-1.jpg">
+                        <img class="img-responsive" src="/img/game-1.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item app" data-category="app">
-                        <img class="img-responsive" src="/app-assets/img/app-2.jpg">
+                        <img class="img-responsive" src="/img/app-2.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item web" data-category="web">
-                        <img class="img-responsive" src="/app-assets/img/web-design-3.jpg">
+                        <img class="img-responsive" src="/img/web-design-3.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item game" data-category="game">
-                        <img class="img-responsive" src="/app-assets/img/game-3.jpg">
+                        <img class="img-responsive" src="/img/game-3.jpg">
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6 element-item app" data-category="app">
-                        <img class="img-responsive" src="/app-assets/img/app-3.jpg">
+                        <img class="img-responsive" src="/img/app-3.jpg">
                     </div>
                 </div>	<!-- isotope -->
             </div>	<!-- row -->
@@ -389,33 +338,31 @@
             <ul class="price-table-chart">
                 <li>
                     <a href="#">
-                        <strong>Free</strong>
-                        <span class="price_table-description">1 Website</span>
-                        <span class="price_table-description">1 Year Updates</span>
-                        <span class="price_table-description">No Email Support</span>
-                        <big class="price_table-price">$0</big>
+                        <strong>HOLY LIQUIDS</strong>
+                        <span class="price_table-description">TANGANDA $6</span>
+                        <span class="price_table-description">COFFEE 500g $9.50</span>
+                        <span class="price_table-description">COFFEE 500g $20</span>
                         <span class="price_table-button">Buy Now</span>
                     </a>
                 </li>
 
                 <li>
                     <a href="#">
-                        <strong>Business</strong>
-                        <span class="price_table-description">Unlimited Websites</span>
-                        <span class="price_table-description">1 Year Updates</span>
-                        <span class="price_table-description">1 Year Email Support</span>
-                        <big class="price_table-price">$90</big>
+                        <strong>HOLY CLOTHING</strong>
+                        <span class="price_table-description">MAZAMBIA</span>
+                        <span class="price_table-description">T-SHIRTS</span>
+                        <span class="price_table-description">NDAZA</span>
+                        <span class="price_table-description">UNIFORMS</span>
                         <span class="price_table-button">Buy Now</span>
                     </a>
                 </li>
 
                 <li>
                     <a href="#">
-                        <strong>Premium</strong>
-                        <span class="price_table-description">Unlimited Websites</span>
-                        <span class="price_table-description">Lifetime Updates</span>
-                        <span class="price_table-description">Lifetime Email Support</span>
-                        <big class="price_table-price">$190</big>
+                        <strong>BOOKS AND POSTERS</strong>
+                        <span class="price_table-description">DOPOTA STARS OLD VOLUMES</span>
+                        <span class="price_table-description">DOPOTA STAR VOLUME 16</span>
+                        <span class="price_table-description">HYM BOOK</span>
                         <span class="price_table-button">Buy Now</span>
                     </a>
                 </li>
