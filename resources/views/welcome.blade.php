@@ -349,10 +349,10 @@
                 <li>
                     <a href="#">
                         <strong>HOLY CLOTHING</strong>
-                        <span class="price_table-description">MAZAMBIA</span>
-                        <span class="price_table-description">T-SHIRTS</span>
-                        <span class="price_table-description">NDAZA</span>
-                        <span class="price_table-description">UNIFORMS</span>
+                        <span class="price_table-description">MAZAMBIA $120</span>
+                        <span class="price_table-description">T-SHIRTS $45</span>
+                        <span class="price_table-description">NDAZA $1</span>
+                        <span class="price_table-description">UNIFORMS $150</span>
                         <span class="price_table-button">Buy Now</span>
                     </a>
                 </li>
@@ -360,9 +360,9 @@
                 <li>
                     <a href="#">
                         <strong>BOOKS AND POSTERS</strong>
-                        <span class="price_table-description">DOPOTA STARS OLD VOLUMES</span>
-                        <span class="price_table-description">DOPOTA STAR VOLUME 16</span>
-                        <span class="price_table-description">HYM BOOK</span>
+                        <span class="price_table-description">DOPOTA STARS OLD VOLUMES $5</span>
+                        <span class="price_table-description">DOPOTA STAR VOLUME $20</span>
+                        <span class="price_table-description">HYM BOOK $10</span>
                         <span class="price_table-button">Buy Now</span>
                     </a>
                 </li>
